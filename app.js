@@ -21,9 +21,8 @@ app.listen(port, () => {
 
 require("dotenv").config();
 
-// all components originally written as API has been removed for this distribution
-// if API access is needed, please invent your own wheel with AirTable API
-// see implementation example at https://go.mingjie.info/code
+// all components originally written as API at https://github.com/hackclub/hack.af has been removed for this distribution
+// for more information, check out that repository to read more.
 
 var base = new Airtable({
   apiKey: process.env.AIRTABLE_KEY,

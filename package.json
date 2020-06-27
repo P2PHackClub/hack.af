@@ -1,9 +1,9 @@
 {
-  "name": "hack.af",
+  "name": "p2phack.club-link-shortener",
   "version": "1.0.0",
-  "description": "Airtable Based Link Shortener for Hack Club",
-  "repository": "https://github.com/hackclub/hack.af",
-  "author": "Mingjie Jiang<jiang@mingjie.info>",
+  "description": "Airtable Based Link Shortener for P2P Hack Club",
+  "repository": "https://github.com/P2PHackClub/p2phack.club-link-shortener",
+  "author": "Mingjie Jiang<jiang@mingjie.info>, P2P Hack Club Team<team@p2phack.club>",
   "license": "MIT",
   "dependencies": {
     "airtable": "^0.7.1",
