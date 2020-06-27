@@ -16,12 +16,12 @@ app.use(
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  console.log("Hack.af is up and running on port", port);
+  console.log("P2P Hack Club Link Shortener is up and running on port", port);
 });
 
 require("dotenv").config();
 
-// all components originally written as API at https://github.com/hackclub/hack.af has been removed for this distribution
+// all components originally written as API at https://github.com/hackclub/hack.af has been removed for the distribution this repository is forked from.
 // for more information, check out that repository to read more.
 
 var base = new Airtable({
